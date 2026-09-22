@@ -24,6 +24,7 @@ namespace MidtermExam.Prob03
             TurnQueue = initialQueue ?? new LinkedList<Player>();
         }
 
+
         /// <summary>
         /// ผู้เล่นที่เป็นเจ้าของเทิร์นปัจจุบัน (โหนดแรกสุดของคิว: First.Value)
         /// </summary>
